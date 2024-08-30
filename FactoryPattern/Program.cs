@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            MenuScreen.Run(); //oops did too much probably
         }
     }
 }
